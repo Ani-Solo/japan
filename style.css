@@ -1,0 +1,55 @@
+
+
+.color-pink {  color: 	#FF69B4; 
+
+}
+
+p, ol {  color: 	#9F2B68;
+
+}
+
+footer, header {
+    background-color: 		#770737;
+}
+
+footer p { 
+    color: 	#E0BFB8;
+}
+
+a {
+    color: #D8BFD8;
+}
+
+#logo-img {
+    width: 100px;
+    /* height: 100px; */
+}
+
+img {
+    width: 800px
+}
+
+
+#services_wrapper, ul, header {
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+#services_wrapper {
+
+    justify-content: center;
+}
+
+header {
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    margin: 15px;
+}
+
+ul {
+    list-style: none;
+    gap: 30px;
+}
